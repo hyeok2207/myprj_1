@@ -1,5 +1,9 @@
 @charset "utf-8";
 
 #btnAdd {
-  background-color: yellow;
+  background-color: lightyellow;
+}
+
+#btnDel {
+  background-color: lightblue;
 }
